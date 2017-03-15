@@ -1,0 +1,13 @@
+﻿  caculator.cpp
+e:\c++\caculator\caculator\caculator.cpp(30): warning C4102: “defaul”: 未引用的标签
+  正在生成代码...
+  正在编译...
+  operate.cpp
+e:\c++\caculator\caculator\operate.cpp(169): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  equation.cpp
+  Message.cpp
+  Fraction.cpp
+e:\c++\caculator\caculator\fraction.cpp(90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  caculator.vcxproj -> E:\C++\caculator\Debug\caculator.exe
+  caculator.vcxproj -> E:\C++\caculator\Debug\caculator.pdb (Full PDB)
