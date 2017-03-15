@@ -1,0 +1,5 @@
+Please type in the number of question:
+      Correct answer
+	  Wrong answer,the correct answer is:
+The number of correct answers:
+£¬The number of false answers:

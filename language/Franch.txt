@@ -1,0 +1,5 @@
+Saisissez le nombre de questions £º
+La r¨¦ponse correcte
+Mauvaise r¨¦ponse. La bonne r¨¦ponse est£º
+Bon nombre de questions £º
+£¬Le probl¨¨me du nombre d'erreurs £º
