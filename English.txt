@@ -1,5 +1,0 @@
-Please enter a number of questions£º
-     correct
-     wrong answer. The correct answer is:
-Correct questions:
-Wrong questions:

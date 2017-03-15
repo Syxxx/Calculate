@@ -1,5 +1,0 @@
-Bitte geben sie die ANZAHL DER titel£º
-Die richtige antwort 
-Falsche antwort £¬Die richtige antwort ist £º
-Die Zahl der korrekte titel£º
-Die ANZAHL DER Fehler und probleme £º
